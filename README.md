@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ros
+## 👋 Hi, I’m Ros🌱
 
 I build full-stack applications to understand how they really work.
 
